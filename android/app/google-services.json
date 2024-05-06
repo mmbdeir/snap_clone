@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "378146658830",
+    "project_id": "flurrer-snap-chat",
+    "storage_bucket": "flurrer-snap-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378146658830:android:85e3d6da41a78d9ab13a5f",
+        "android_client_info": {
+          "package_name": "com.example.snap_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyZqFVi-n7qn29C1_S6xJyd4B-FlMZ0fE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
