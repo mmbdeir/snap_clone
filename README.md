@@ -1,6 +1,6 @@
 # snap_clone
 
-A new Flutter project.
+A snapchat replica
 
 ## Getting Started
 
